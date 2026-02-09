@@ -35,3 +35,13 @@ Run the simulation directly from the terminal:
 
 ```bash
 python consistent_hashing.py
+```
+
+Compile: 
+```bash
+javac ConsistentHashing.java
+```
+
+Run:
+```bash
+java ConsistentHashing
